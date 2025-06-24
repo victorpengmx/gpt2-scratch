@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Datasets
+datasets/
+
+# Logs
+logs/
